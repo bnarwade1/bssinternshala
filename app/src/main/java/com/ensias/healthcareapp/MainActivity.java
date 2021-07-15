@@ -46,9 +46,7 @@ public class MainActivity extends AppCompatActivity {
     SignInButton signInButton;
     FirebaseFirestore  db = FirebaseFirestore.getInstance();
     private CollectionReference UsersRef = db.collection("User");
-
     GoogleSignInClient mGoogleSignInClient;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
@@ -56,10 +54,7 @@ public class MainActivity extends AppCompatActivity {
                 .requestEmail()
                 .build();
        mGoogleSignInClient = GoogleSignIn.getClient(this, gso);
-
-
         mAuth = FirebaseAuth.getInstance();
-
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         confirme = (EditText)findViewById(R.id.editText3);
@@ -241,7 +236,7 @@ public class MainActivity extends AppCompatActivity {
                                 public void onSuccess(DocumentSnapshot documentSnapshot) {
                                     User user=documentSnapshot.toObject(User.class);
                                     if(user.getType().equals("Patient")){
-                                        Intent k = new Intent(MainActivity.this, HomeActivity.class);
+                                        Intent k = new Intent(MainActivity.this, patientswipe.class);
                                         startActivity(k);
                                     }else{
                                         Intent k = new Intent(MainActivity.this,Mid.class);

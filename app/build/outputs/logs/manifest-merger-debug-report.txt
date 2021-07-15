@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-54:12
 MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Kadambari\.gradle\caches\transforms-2\files-2.1\f4f855faf7baa795533eaaa835dc2b70\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Kadambari\.gradle\caches\transforms-2\files-2.1\8b63f0b43f14224a3880b479c5fe69e5\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [devs.mulham.horizontalcalendar:horizontalcalendar:1.3.4] C:\Users\Kadambari\.gradle\caches\transforms-2\files-2.1\d7189267a3259d60716ea41afe52e89f\jetified-horizontalcalendar-1.3.4\AndroidManifest.xml:2:1-14:12
@@ -89,20 +89,20 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Kadambari\.gradl
 MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Kadambari\.gradle\caches\transforms-2\files-2.1\5b16da34027682e4a6bf491f065d4bef\jetified-gifdecoder-4.8.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Kadambari\.gradle\caches\transforms-2\files-2.1\7743680fe8b208c3b81ff17fa06d3c1e\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Kadambari\.gradle\caches\transforms-2\files-2.1\8016bc4e6c8f474b527102cdd44e1466\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-54:12
 	package
 		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:3:5-39
 		INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-55:12
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-54:12
 		INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-55:12
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:1-54:12
 		INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:2:11-69
@@ -139,7 +139,7 @@ ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\s
 	android:name
 		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:7:22-77
 application
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:9:5-53:19
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:9:5-52:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Kadambari\.gradle\caches\transforms-2\files-2.1\8b63f0b43f14224a3880b479c5fe69e5\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\Kadambari\.gradle\caches\transforms-2\files-2.1\8b63f0b43f14224a3880b479c5fe69e5\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [devs.mulham.horizontalcalendar:horizontalcalendar:1.3.4] C:\Users\Kadambari\.gradle\caches\transforms-2\files-2.1\d7189267a3259d60716ea41afe52e89f\jetified-horizontalcalendar-1.3.4\AndroidManifest.xml:11:5-12:19
@@ -216,122 +216,126 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Kadambari\.gra
 		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
 		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:15:9-65
+activity#com.ensias.healthcareapp.patientswipe
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:16:9-59
+	android:name
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:16:19-47
 activity#com.ensias.healthcareapp.Mid
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:16:9-50
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:17:9-41
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:16:19-38
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:17:19-38
 activity#com.ensias.healthcareapp.SplashScreen
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:17:9-23:20
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:18:9-24:20
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:17:19-47
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:18:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:18:9-22:25
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:19:13-65
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:19:21-62
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:21:13-73
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:21:23-70
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:22:27-74
 activity#com.ensias.healthcareapp.MyCalendarDoctorActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:24:9-62
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:25:9-62
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:24:19-59
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:25:19-59
 activity#com.ensias.healthcareapp.TestActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:25:9-50
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:26:9-50
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:25:19-47
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:26:19-47
 activity#com.ensias.healthcareapp.AppointementActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:26:9-58
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:27:9-58
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:26:19-55
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:27:19-55
 activity#com.ensias.healthcareapp.FicheInfo
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:27:9-47
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:28:9-47
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:27:19-44
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:28:19-44
 activity#com.ensias.healthcareapp.PatientInfoActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:28:9-57
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:29:9-57
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:28:19-54
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:29:19-54
 activity#com.ensias.healthcareapp.DossierMedical
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:29:9-52
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:30:9-52
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:29:19-49
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:30:19-49
 activity#com.ensias.healthcareapp.ChatActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:30:9-50
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:31:9-50
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:30:19-47
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:31:19-47
 activity#com.ensias.healthcareapp.PatientRequestPage
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:31:9-56
-	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:31:19-53
-activity#com.ensias.healthcareapp.DoctorHomeActivity
 ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:32:9-56
 	android:name
 		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:32:19-53
+activity#com.ensias.healthcareapp.DoctorHomeActivity
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:33:9-56
+	android:name
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:33:19-53
 activity#com.ensias.healthcareapp.EditProfileDoctorActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:33:9-63
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:34:9-63
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:33:19-60
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:34:19-60
 activity#com.ensias.healthcareapp.ConfirmedAppointmensActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:34:9-66
-	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:34:19-63
-activity#com.ensias.healthcareapp.PatientAppointementsActivity
 ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:35:9-66
 	android:name
 		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:35:19-63
+activity#com.ensias.healthcareapp.PatientAppointementsActivity
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:36:9-66
+	android:name
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:36:19-63
 activity#com.ensias.healthcareapp.ProfilePatientActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:36:9-60
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:37:9-60
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:36:19-57
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:37:19-57
 activity#com.ensias.healthcareapp.MyDoctorsAvtivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:37:9-55
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:38:9-55
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:37:19-52
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:38:19-52
 activity#com.ensias.healthcareapp.ProfileDoctorActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:38:9-59
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:39:9-59
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:38:19-56
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:39:19-56
 activity#com.ensias.healthcareapp.EditProfilePatientActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:39:9-64
-	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:39:19-61
-activity#com.ensias.healthcareapp.DoctorAppointementActivity
 ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:40:9-64
 	android:name
 		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:40:19-61
+activity#com.ensias.healthcareapp.DoctorAppointementActivity
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:41:9-64
+	android:name
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:41:19-61
 activity#com.ensias.healthcareapp.FicheActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:41:9-51
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:42:9-51
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:41:19-48
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:42:19-48
 activity#com.ensias.healthcareapp.MyPatientsActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:42:9-56
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:43:9-56
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:42:19-53
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:43:19-53
 activity#com.ensias.healthcareapp.SearchPatActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:43:9-55
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:44:9-55
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:43:19-52
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:44:19-52
 activity#com.ensias.healthcareapp.FirstSigninActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:44:9-57
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:45:9-57
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:44:19-54
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:45:19-54
 activity#com.ensias.healthcareapp.HomeActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:45:9-50
-	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:45:19-47
-activity#com.ensias.healthcareapp.MainActivity
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:46:9-49
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:46:9-50
 	android:name
 		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:46:19-47
-meta-data#preloaded_fonts
-ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:50:9-52:57
-	android:resource
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:52:13-54
+activity#com.ensias.healthcareapp.MainActivity
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:47:9-50
 	android:name
-		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:51:13-43
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:47:19-47
+meta-data#preloaded_fonts
+ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:49:9-51:57
+	android:resource
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:50:13-43
 uses-sdk
 INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml

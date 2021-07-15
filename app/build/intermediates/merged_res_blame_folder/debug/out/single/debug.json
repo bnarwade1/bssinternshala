@@ -228,16 +228,16 @@
         "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\font\\montserrat_alternates_bold.xml"
     },
     {
+        "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_alternates.xml.flat",
+        "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\font\\montserrat_alternates.xml"
+    },
+    {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_school_black_24dp.png.flat",
         "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable-hdpi\\ic_school_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_profile_doctor.xml.flat",
         "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\layout\\activity_edit_profile_doctor.xml"
-    },
-    {
-        "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_alternates.xml.flat",
-        "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\font\\montserrat_alternates.xml"
     },
     {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_note_background.jpg.flat",
@@ -252,16 +252,16 @@
         "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable\\ic_filter_list_black_24dp.xml"
     },
     {
+        "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.PNG.flat",
+        "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable\\search.PNG"
+    },
+    {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_android_white_24dp.png.flat",
         "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable-mdpi\\ic_android_white_24dp.png"
     },
     {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_medcal_logo.png.flat",
         "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable-xhdpi\\medcal_logo.png"
-    },
-    {
-        "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.PNG.flat",
-        "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable\\search.PNG"
     },
     {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_radius_accent_color.xml.flat",
@@ -298,6 +298,10 @@
     {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appointment.PNG.flat",
         "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable\\appointment.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_patientswipe.xml.flat",
+        "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\layout\\activity_patientswipe.xml"
     },
     {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
@@ -348,12 +352,12 @@
         "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
-        "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_link_background.xml.flat",
-        "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable\\link_background.xml"
-    },
-    {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_down_animation.xml.flat",
         "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\anim\\down_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_link_background.xml.flat",
+        "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable\\link_background.xml"
     },
     {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_consultation_page.xml.flat",
@@ -436,12 +440,12 @@
         "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_circle_black_24px.png"
     },
     {
-        "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_booking_step_one.xml.flat",
-        "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\layout\\fragment_booking_step_one.xml"
-    },
-    {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_advdr.PNG.flat",
         "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable\\advdr.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_booking_step_one.xml.flat",
+        "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\layout\\fragment_booking_step_one.xml"
     },
     {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cloud_white_24dp.png.flat",
@@ -466,6 +470,10 @@
     {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_booking_step3.xml.flat",
         "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\layout\\fragment_booking_step3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_searchh.png.flat",
+        "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable\\searchh.png"
     },
     {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_healthy.jpg.flat",
@@ -502,6 +510,10 @@
     {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cloud_white_24dp.png.flat",
         "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cloud_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_itemp.xml.flat",
+        "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\layout\\itemp.xml"
     },
     {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_image_notification.png.flat",
@@ -558,6 +570,10 @@
     {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_bug_report_white_24dp.png.flat",
         "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_bug_report_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\src\\main\\res\\drawable\\logout.png"
     },
     {
         "merged": "C:\\Users\\Kadambari\\AndroidStudioProjects\\Health_Care_App-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_android_white_24dp.png.flat",

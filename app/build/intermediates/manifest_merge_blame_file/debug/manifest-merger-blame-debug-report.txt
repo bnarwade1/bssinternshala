@@ -30,7 +30,7 @@
 16-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Kadambari\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:22-107
 17
 18    <application
-18-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:9:5-53:19
+18-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:9:5-52:19
 19        android:name="androidx.multidex.MultiDexApplication"
 20        android:allowBackup="true"
 20-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:10:9-35
@@ -45,102 +45,104 @@
 25-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:13:9-54
 26        android:supportsRtl="true"
 26-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:14:9-35
-27        android:testOnly="true"
-28        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-28-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:15:9-65
+27        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+27-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:15:9-65
+28        <activity android:name="com.ensias.healthcareapp.patientswipe" />
+28-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:16:9-59
+28-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:16:19-47
 29        <activity android:name="com.ensias.healthcareapp.Mid" />
-29-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:16:9-50
-29-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:16:19-38
+29-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:17:9-41
+29-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:17:19-38
 30        <activity android:name="com.ensias.healthcareapp.SplashScreen" >
-30-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:17:9-23:20
-30-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:17:19-47
+30-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:18:9-24:20
+30-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:18:19-47
 31            <intent-filter>
-31-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:18:9-22:25
+31-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:19:13-23:29
 32                <action android:name="android.intent.action.MAIN" />
-32-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:19:13-65
-32-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:19:21-62
+32-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:20:17-69
+32-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:20:25-66
 33
 34                <category android:name="android.intent.category.LAUNCHER" />
-34-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:21:13-73
-34-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:21:23-70
+34-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:22:17-77
+34-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:22:27-74
 35            </intent-filter>
 36        </activity>
 37        <activity android:name="com.ensias.healthcareapp.MyCalendarDoctorActivity" />
-37-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:24:9-62
-37-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:24:19-59
+37-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:25:9-62
+37-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:25:19-59
 38        <activity android:name="com.ensias.healthcareapp.TestActivity" />
-38-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:25:9-50
-38-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:25:19-47
+38-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:26:9-50
+38-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:26:19-47
 39        <activity android:name="com.ensias.healthcareapp.AppointementActivity" />
-39-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:26:9-58
-39-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:26:19-55
+39-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:27:9-58
+39-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:27:19-55
 40        <activity android:name="com.ensias.healthcareapp.FicheInfo" />
-40-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:27:9-47
-40-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:27:19-44
+40-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:28:9-47
+40-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:28:19-44
 41        <activity android:name="com.ensias.healthcareapp.PatientInfoActivity" />
-41-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:28:9-57
-41-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:28:19-54
+41-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:29:9-57
+41-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:29:19-54
 42        <activity android:name="com.ensias.healthcareapp.DossierMedical" />
-42-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:29:9-52
-42-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:29:19-49
+42-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:30:9-52
+42-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:30:19-49
 43        <activity android:name="com.ensias.healthcareapp.ChatActivity" />
-43-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:30:9-50
-43-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:30:19-47
+43-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:31:9-50
+43-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:31:19-47
 44        <activity android:name="com.ensias.healthcareapp.PatientRequestPage" />
-44-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:31:9-56
-44-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:31:19-53
+44-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:32:9-56
+44-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:32:19-53
 45        <activity android:name="com.ensias.healthcareapp.DoctorHomeActivity" />
-45-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:32:9-56
-45-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:32:19-53
+45-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:33:9-56
+45-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:33:19-53
 46        <activity android:name="com.ensias.healthcareapp.EditProfileDoctorActivity" />
-46-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:33:9-63
-46-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:33:19-60
+46-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:34:9-63
+46-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:34:19-60
 47        <activity android:name="com.ensias.healthcareapp.ConfirmedAppointmensActivity" />
-47-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:34:9-66
-47-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:34:19-63
+47-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:35:9-66
+47-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:35:19-63
 48        <activity android:name="com.ensias.healthcareapp.PatientAppointementsActivity" />
-48-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:35:9-66
-48-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:35:19-63
+48-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:36:9-66
+48-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:36:19-63
 49        <activity android:name="com.ensias.healthcareapp.ProfilePatientActivity" />
-49-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:36:9-60
-49-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:36:19-57
+49-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:37:9-60
+49-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:37:19-57
 50        <activity android:name="com.ensias.healthcareapp.MyDoctorsAvtivity" />
-50-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:37:9-55
-50-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:37:19-52
+50-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:38:9-55
+50-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:38:19-52
 51        <activity android:name="com.ensias.healthcareapp.ProfileDoctorActivity" />
-51-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:38:9-59
-51-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:38:19-56
+51-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:39:9-59
+51-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:39:19-56
 52        <activity android:name="com.ensias.healthcareapp.EditProfilePatientActivity" />
-52-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:39:9-64
-52-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:39:19-61
+52-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:40:9-64
+52-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:40:19-61
 53        <activity android:name="com.ensias.healthcareapp.DoctorAppointementActivity" />
-53-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:40:9-64
-53-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:40:19-61
+53-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:41:9-64
+53-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:41:19-61
 54        <activity android:name="com.ensias.healthcareapp.FicheActivity" />
-54-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:41:9-51
-54-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:41:19-48
+54-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:42:9-51
+54-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:42:19-48
 55        <activity android:name="com.ensias.healthcareapp.MyPatientsActivity" />
-55-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:42:9-56
-55-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:42:19-53
+55-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:43:9-56
+55-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:43:19-53
 56        <activity android:name="com.ensias.healthcareapp.SearchPatActivity" />
-56-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:43:9-55
-56-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:43:19-52
+56-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:44:9-55
+56-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:44:19-52
 57        <activity android:name="com.ensias.healthcareapp.FirstSigninActivity" />
-57-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:44:9-57
-57-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:44:19-54
+57-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:45:9-57
+57-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:45:19-54
 58        <activity android:name="com.ensias.healthcareapp.HomeActivity" />
-58-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:45:9-50
-58-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:45:19-47
+58-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:46:9-50
+58-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:46:19-47
 59        <activity android:name="com.ensias.healthcareapp.MainActivity" />
-59-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:46:9-49
-59-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:46:19-47
+59-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:47:9-50
+59-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:47:19-47
 60
 61        <meta-data
-61-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:50:9-52:57
+61-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:49:9-51:57
 62            android:name="preloaded_fonts"
-62-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:51:13-43
+62-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:50:13-43
 63            android:resource="@array/preloaded_fonts" />
-63-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:52:13-54
+63-->C:\Users\Kadambari\AndroidStudioProjects\Health_Care_App-master\app\src\main\AndroidManifest.xml:51:13-54
 64
 65        <activity
 65-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Kadambari\.gradle\caches\transforms-2\files-2.1\a0476a2be8d14e3ad542ecca6723be5f\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20

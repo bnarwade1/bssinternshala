@@ -4,6 +4,8 @@ com/ensias/healthcareapp/fragment/BookingStep3Fragment.java
  com.ensias.healthcareapp.fragment.BookingStep3Fragment$2
  com.ensias.healthcareapp.fragment.BookingStep3Fragment$3
  com.ensias.healthcareapp.fragment.BookingStep3Fragment$4
+com/ensias/healthcareapp/Modelp.java
+ com.ensias.healthcareapp.Modelp
 com/ensias/healthcareapp/fragment/BookingStep1Fragment.java
  com.ensias.healthcareapp.fragment.BookingStep1Fragment
 com/ensias/healthcareapp/ProfilePatientActivity.java
@@ -46,6 +48,9 @@ com/ensias/healthcareapp/model/User.java
  com.ensias.healthcareapp.model.User
 com/ensias/healthcareapp/model/Request.java
  com.ensias.healthcareapp.model.Request
+com/ensias/healthcareapp/patientswipe.java
+ com.ensias.healthcareapp.patientswipe
+ com.ensias.healthcareapp.patientswipe$1
 com/ensias/healthcareapp/adapter/PatientAppointmentsAdapter.java
  com.ensias.healthcareapp.adapter.PatientAppointmentsAdapter
  com.ensias.healthcareapp.adapter.PatientAppointmentsAdapter$1
@@ -191,6 +196,9 @@ com/ensias/healthcareapp/fragment/ConsultationFragment.java
 com/ensias/healthcareapp/adapter/MessageAdapter.java
  com.ensias.healthcareapp.adapter.MessageAdapter
  com.ensias.healthcareapp.adapter.MessageAdapter$MessageHolder
+com/ensias/healthcareapp/Adapterp.java
+ com.ensias.healthcareapp.Adapterp
+ com.ensias.healthcareapp.Adapterp$1
 com/ensias/healthcareapp/model/Patient.java
  com.ensias.healthcareapp.model.Patient
 com/ensias/healthcareapp/adapter/MyDoctorsAdapter.java

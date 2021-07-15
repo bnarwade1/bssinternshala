@@ -15,7 +15,7 @@ import java.lang.Override;
 public class BookingStep3Fragment_ViewBinding implements Unbinder {
   private BookingStep3Fragment target;
 
-  private View view7f0a0083;
+  private View view7f0a0084;
 
   @UiThread
   public BookingStep3Fragment_ViewBinding(final BookingStep3Fragment target, View source) {
@@ -27,7 +27,7 @@ public class BookingStep3Fragment_ViewBinding implements Unbinder {
     target.txt_booking_type = Utils.findRequiredViewAsType(source, R.id.txt_booking_type, "field 'txt_booking_type'", TextView.class);
     target.txt_booking_phone = Utils.findRequiredViewAsType(source, R.id.txt_booking_phone, "field 'txt_booking_phone'", TextView.class);
     view = Utils.findRequiredView(source, R.id.btn_confirm, "method 'confirmeApointement'");
-    view7f0a0083 = view;
+    view7f0a0084 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -48,7 +48,7 @@ public class BookingStep3Fragment_ViewBinding implements Unbinder {
     target.txt_booking_type = null;
     target.txt_booking_phone = null;
 
-    view7f0a0083.setOnClickListener(null);
-    view7f0a0083 = null;
+    view7f0a0084.setOnClickListener(null);
+    view7f0a0084 = null;
   }
 }

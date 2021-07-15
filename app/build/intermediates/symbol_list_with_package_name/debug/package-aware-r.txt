@@ -1908,6 +1908,7 @@ drawable link_background
 drawable loading_shape
 drawable logo
 drawable logoo
+drawable logout
 drawable main_header_selector
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
@@ -1964,6 +1965,7 @@ drawable rounded_message2
 drawable rounded_relativelayout
 drawable rr
 drawable search
+drawable searchh
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -2280,6 +2282,7 @@ id imageView7
 id imageView8
 id imageView9
 id image_profile
+id imagep
 id info
 id infobtn
 id invisible
@@ -2549,6 +2552,7 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
+id titlep
 id toggle
 id toolbar
 id toolbar_title
@@ -2580,6 +2584,7 @@ id updateInfoBtn
 id useLogo
 id view
 id viewPager
+id viewPagerp
 id view_offset_helper
 id view_pager
 id view_tree_lifecycle_owner
@@ -2684,6 +2689,7 @@ layout activity_my_patients
 layout activity_patient_appointments
 layout activity_patient_info
 layout activity_patient_request_page
+layout activity_patientswipe
 layout activity_profile_doctor
 layout activity_profile_info
 layout activity_search_pat
@@ -2722,6 +2728,7 @@ layout hc_item_calendar
 layout hc_item_calendar_old
 layout hospitalisation_item
 layout item
+layout itemp
 layout layout_time_slot
 layout material_chip_input_combo
 layout material_clock_display

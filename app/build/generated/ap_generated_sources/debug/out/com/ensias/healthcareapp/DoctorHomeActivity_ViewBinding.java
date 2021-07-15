@@ -13,9 +13,9 @@ import java.lang.Override;
 public class DoctorHomeActivity_ViewBinding implements Unbinder {
   private DoctorHomeActivity target;
 
-  private View view7f0a01ba;
+  private View view7f0a01bc;
 
-  private View view7f0a0180;
+  private View view7f0a0182;
 
   @UiThread
   public DoctorHomeActivity_ViewBinding(DoctorHomeActivity target) {
@@ -28,7 +28,7 @@ public class DoctorHomeActivity_ViewBinding implements Unbinder {
 
     View view;
     view = Utils.findRequiredView(source, R.id.profile, "method 'profileBtnClick'");
-    view7f0a01ba = view;
+    view7f0a01bc = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -36,7 +36,7 @@ public class DoctorHomeActivity_ViewBinding implements Unbinder {
       }
     });
     view = Utils.findRequiredView(source, R.id.myCalendarBtn, "method 'myCalendarOnclick'");
-    view7f0a0180 = view;
+    view7f0a0182 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -52,9 +52,9 @@ public class DoctorHomeActivity_ViewBinding implements Unbinder {
     target = null;
 
 
-    view7f0a01ba.setOnClickListener(null);
-    view7f0a01ba = null;
-    view7f0a0180.setOnClickListener(null);
-    view7f0a0180 = null;
+    view7f0a01bc.setOnClickListener(null);
+    view7f0a01bc = null;
+    view7f0a0182.setOnClickListener(null);
+    view7f0a0182 = null;
   }
 }

@@ -13,13 +13,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
-        <activity android:name=".Mid"></activity>
-        <activity android:name=".SplashScreen" >
-        <intent-filter>
-            <action android:name="android.intent.action.MAIN" />
+        <activity android:name=".patientswipe"></activity>
+        <activity android:name=".Mid" />
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
-            <category android:name="android.intent.category.LAUNCHER" />
-        </intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity android:name=".MyCalendarDoctorActivity" />
         <activity android:name=".TestActivity" />
@@ -43,9 +44,7 @@
         <activity android:name=".SearchPatActivity" />
         <activity android:name=".FirstSigninActivity" />
         <activity android:name=".HomeActivity" />
-        <activity android:name=".MainActivity"/>
-
-
+        <activity android:name=".MainActivity" />
 
         <meta-data
             android:name="preloaded_fonts"
