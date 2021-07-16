@@ -24,7 +24,7 @@ public class FirstSigninActivity extends AppCompatActivity {
     private EditText fullName;
     private EditText birthday;
     private EditText teL;
-    private Button btn;
+    public Button btn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
