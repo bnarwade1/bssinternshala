@@ -14,7 +14,11 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.viewpager.widget.PagerAdapter;
 
+import com.ensias.healthcareapp.Common.Common;
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.firestore.DocumentSnapshot;
+import com.google.firebase.firestore.FirebaseFirestore;
 
 import java.util.Calendar;
 import java.util.List;
@@ -68,6 +72,17 @@ public class Adapterp extends PagerAdapter implements DatePickerDialog.OnDateSet
     @NonNull
     @Override
     public Object instantiateItem(@NonNull ViewGroup container, int position) {
+        Common.CurreentDoctor = FirebaseAuth.getInstance().getCurrentUser().getEmail().toString();
+        Common.CurrentUserType = "patient";
+        layoutInflaterp=LayoutInflater.from(contextp);
+        Common.CurrentUserid= FirebaseAuth.getInstance().getCurrentUser().getEmail().toString();
+        FirebaseFirestore.getInstance().collection("User").document(Common.CurrentUserid).get().addOnSuccessListener(new OnSuccessListener<DocumentSnapshot>() {
+            @Override
+            public void onSuccess(DocumentSnapshot documentSnapshot) {
+                Common.CurrentUserName = documentSnapshot.getString("name");
+            }
+        });
+
         layoutInflaterp=LayoutInflater.from(contextp);
         View view = layoutInflaterp.inflate(R.layout.itemp,container,false);
         ImageView imageView;
@@ -85,8 +100,9 @@ public class Adapterp extends PagerAdapter implements DatePickerDialog.OnDateSet
                     contextp.startActivity(intent);
                 }
                 else if(position == 1){
-                    Intent i=new Intent(contextp,DossierMedical.class);
-                    contextp.startActivity(i);
+                    Intent intent = new Intent(contextp, DossierMedical.class);
+                    intent.putExtra("patient_email",FirebaseAuth.getInstance().getCurrentUser().getEmail().toString());
+                    contextp.startActivity(intent);
                 }
                 else if(position==2){
                     Intent i1=new Intent(contextp,MyDoctorsAvtivity.class);
@@ -107,6 +123,7 @@ public class Adapterp extends PagerAdapter implements DatePickerDialog.OnDateSet
                     intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
                     contextp.startActivity(intent);
                 }
+
 
 
 

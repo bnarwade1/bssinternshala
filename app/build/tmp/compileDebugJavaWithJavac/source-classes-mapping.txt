@@ -199,6 +199,7 @@ com/ensias/healthcareapp/adapter/MessageAdapter.java
 com/ensias/healthcareapp/Adapterp.java
  com.ensias.healthcareapp.Adapterp
  com.ensias.healthcareapp.Adapterp$1
+ com.ensias.healthcareapp.Adapterp$2
 com/ensias/healthcareapp/model/Patient.java
  com.ensias.healthcareapp.model.Patient
 com/ensias/healthcareapp/adapter/MyDoctorsAdapter.java
