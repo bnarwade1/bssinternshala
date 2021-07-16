@@ -2,6 +2,7 @@
 A mobile application that facilitates making appointments and monitoring patients.
 
 ## 🤓 Authors
+**Bhagyashree Narwade
 **Yassine Boujnah** [![Twitter Follow](https://img.shields.io/twitter/follow/yassboujnah.svg?style=social)](https://twitter.com/yassboujnah)
 **Ilyass TARHRI** [![Twitter Follow](https://img.shields.io/twitter/follow/ilyass_trh.svg?style=social)](https://twitter.com/ilyass_trh)
 
